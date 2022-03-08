@@ -17,23 +17,21 @@ section{
 	background: url(padar-island.jpg) no-repeat;
 	background-size: cover;
 }
-.download-icon{
+.separator{
 	position: fixed;
 	width: 50px;
 	height: 50px;
 	border-radius: 50%;
-	background: rgba(192,192,192,0.3);
-	top: 150px;
+	background: none;
+	bottom: 50px;
 	right: 50px;
 	text-decoration: none;
 	text-align: center;
 	line-height: 50px;
 	color:#ffffff;
-
 }
-
-.fa-chevron-circle-down{font-size: 30px;line-height: 50px;color:#01daec;}
-      </style>
+.fa-chevron-circle-separator{font-size: 30px;line-height: 50px;color:#01daec;}
+</style>
     </head>
     <body>
       <div>
