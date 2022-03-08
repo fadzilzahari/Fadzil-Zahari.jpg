@@ -1,1 +1,0 @@
-# Fadzil-Zahari.jpg
